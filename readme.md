@@ -53,7 +53,7 @@ ProgressBar.py  show the status while training
 <br>
 
 ## Result
-  [result](https://github.com/hellojor/PYTORCH-CIFAR-10/blob/main/result.jpg)
+  ![result](https://github.com/hellojor/PYTORCH-CIFAR-10/blob/main/result.jpg)
 
 ## Conclusion
   Remind me if there is any bug on it. 
