@@ -30,9 +30,9 @@ ProgressBar.py  show the status while training
 <br>
 
 ## Simple train and test
-  STEP 1 MODIFY YOUR ENV (open .bat and change "call activate yourenv")
-  STEP 2 JUST RUN `run_train_and_test.bat` (or `run_test.bat`)!!!!!
-  You can modify argument of `train.py`.
+  STEP 1 MODIFY YOUR ENV (open .bat and change "call activate yourenv")<br>
+  STEP 2 JUST RUN `run_train_and_test.bat` (or `run_test.bat`)!!!!!<br>
+  You can modify argument of `train.py`.<br>
   `i.e @python train.py --num_epoch 100 --batch_size 20`
 
 <br>
