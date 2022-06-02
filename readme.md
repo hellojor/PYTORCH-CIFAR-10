@@ -25,7 +25,7 @@ ProgressBar.py  show the status while training
 <br>
 
 ## Testing
-  Just run `python test.py`
+  Just run `python predict.py`
 
 <br>
 
@@ -36,6 +36,24 @@ ProgressBar.py  show the status while training
   `i.e @python train.py --num_epoch 100 --batch_size 20`
 
 <br>
+
+## Accuracy
+  Accuracy: 92.26 %<br>
+  Accuracy of plane : 92 %<br>
+  Accuracy of car   : 97 %<br>
+  Accuracy of bird  : 89 %<br>
+  Accuracy of cat   : 83 %<br>
+  Accuracy of deer  : 92 %<br>
+  Accuracy of dog   : 86 %<br>
+  Accuracy of frog  : 94 %<br>
+  Accuracy of horse : 95 %<br>
+  Accuracy of ship  : 95 %<br>
+  Accuracy of truck : 94 %<br>
+
+<br>
+
+## Result
+  [result](https://github.com/hellojor/PYTORCH-CIFAR-10/blob/main/result.jpg)
 
 ## Conclusion
   Remind me if there is any bug on it. 
